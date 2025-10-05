@@ -1,0 +1,13 @@
+body {
+  background-color: #18171c;
+  color: #ed4880;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 2rem;
+}
+a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+h1, h2 {
+  color: #ed4880;
+}
